@@ -1,0 +1,19 @@
+{
+  "name": "Texas Hold’em Blind Clock",
+  "short_name": "Blind Clock",
+  "description": "A touch-friendly Texas Hold’em tournament blind clock.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#071511",
+  "theme_color": "#071511",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
